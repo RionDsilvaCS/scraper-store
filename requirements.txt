@@ -2,3 +2,4 @@ app-store-scraper
 google-play-scraper
 flask
 gunicorn
+Flask-Cors
