@@ -4,4 +4,4 @@ flask
 gunicorn
 Flask-Cors
 langchain-openai
-langchain
+langchain==0.1.9
