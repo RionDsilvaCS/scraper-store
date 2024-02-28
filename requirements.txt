@@ -3,5 +3,5 @@ google-play-scraper
 flask
 gunicorn
 Flask-Cors
-langchain
 langchain-openai
+langchain
