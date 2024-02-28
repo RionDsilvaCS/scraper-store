@@ -9,4 +9,6 @@ cors = CORS(app, resources={r"/*": {"origins": "*"}})
 app.register_blueprint(google_playstore_blueprint, url_prefix='/google-playstore')
 app.register_blueprint(app_store_blueprint, url_prefix='/app-store')
 
-# app.run()
+@app.route('/')
+def hello_world():
+    return 'Kick Started Server'
