@@ -1,5 +1,5 @@
-langchain-openai==0.0.6
-langchain==0.1.9
+langchain
+langchain-openai
 app-store-scraper
 google-play-scraper
 flask
