@@ -3,5 +3,5 @@ google-play-scraper
 flask
 gunicorn
 Flask-Cors
-langchain-openai
+langchain-openai==0.0.6
 langchain==0.1.9
